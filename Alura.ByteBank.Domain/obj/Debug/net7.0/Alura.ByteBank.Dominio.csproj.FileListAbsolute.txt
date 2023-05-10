@@ -1,0 +1,12 @@
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\bin\Debug\net7.0\Alura.ByteBank.Dominio.deps.json
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\bin\Debug\net7.0\Alura.ByteBank.Dominio.dll
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\bin\Debug\net7.0\Alura.ByteBank.Dominio.pdb
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\obj\Debug\net7.0\Alura.ByteBank.Dominio.csproj.AssemblyReference.cache
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\obj\Debug\net7.0\Alura.ByteBank.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\obj\Debug\net7.0\Alura.ByteBank.Dominio.AssemblyInfoInputs.cache
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\obj\Debug\net7.0\Alura.ByteBank.Dominio.AssemblyInfo.cs
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\obj\Debug\net7.0\Alura.ByteBank.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\obj\Debug\net7.0\Alura.ByteBank.Dominio.dll
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\obj\Debug\net7.0\refint\Alura.ByteBank.Dominio.dll
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\obj\Debug\net7.0\Alura.ByteBank.Dominio.pdb
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\obj\Debug\net7.0\ref\Alura.ByteBank.Dominio.dll

@@ -1,0 +1,2 @@
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Infraestrutura.Testes\obj\Debug\net7.0\Alura.ByteBank.Infraestrutura.Testes.csproj.AssemblyReference.cache
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Infraestrutura.Testes\obj\Debug\net7.0\Alura.ByteBank.Infraestrutura.Testes.GeneratedMSBuildEditorConfig.editorconfig
