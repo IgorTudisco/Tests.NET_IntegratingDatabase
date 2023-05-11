@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Alura.ByteBank.Dominio
-build_property.ProjectDir = C:\Users\igort\Documents\Cursos\Alura\Testes em .NET integrando a aplicação com um banco de dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\
+build_property.ProjectDir = C:\Users\igort\Documents\Cursos\Alura\Testes em .NET_dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Domain\
