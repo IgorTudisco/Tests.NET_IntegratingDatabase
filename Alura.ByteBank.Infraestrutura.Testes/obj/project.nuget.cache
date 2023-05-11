@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UQIt5dsxMZq7Kb90/bOjyED4I9F5dTuENVXgB1s2bxsNfPSps4J3d/tAlRwy5NoLtOJnF0u0fhV+zaFTQx/JVw==",
+  "dgSpecHash": "r4tDSIMMAOeStXDX6VlWxmACIWZJMsl3GJKo5V0rv1b9xqM0SZcs6txPzOJ7UCQM/lXkSnYJSHjqjkKdfC9r/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Infraestrutura.Testes\\Alura.ByteBank.Infraestrutura.Testes.csproj",
+  "projectFilePath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Infraestrutura.Testes\\Alura.ByteBank.Infraestrutura.Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\igort\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\igort\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hJ7vQbekpWgkA7wN49BCHpFh61GDvKzD3yiJJZYhVJAQuto+j3XdIko97e3nT4GgMiz7pvVZFrvhb4Mt8Z3hiA==",
+  "dgSpecHash": "kqXGg7ocVNci/83PFM1berrwcCBHYawEGR0MD7Qz4b77DsqgcfN/BrF0zJvK+66wuIhAN+SCNjbALjgUj6bKgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Dados\\Alura.ByteBank.Dados.csproj",
+  "projectFilePath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Dados\\Alura.ByteBank.Dados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\igort\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\igort\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

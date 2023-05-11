@@ -4787,11 +4787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Apresentacao\\Alura.ByteBank.Apresentacao.csproj",
+      "projectUniqueName": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Apresentacao\\Alura.ByteBank.Apresentacao.csproj",
       "projectName": "Alura.ByteBank.Apresentacao",
-      "projectPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Apresentacao\\Alura.ByteBank.Apresentacao.csproj",
+      "projectPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Apresentacao\\Alura.ByteBank.Apresentacao.csproj",
       "packagesPath": "C:\\Users\\igort\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Apresentacao\\obj\\",
+      "outputPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Apresentacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4813,14 +4813,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Aplicacao\\Alura.ByteBank.Aplicacao.csproj": {
-              "projectPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Aplicacao\\Alura.ByteBank.Aplicacao.csproj"
+            "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Aplicacao\\Alura.ByteBank.Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Aplicacao\\Alura.ByteBank.Aplicacao.csproj"
             },
-            "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Dados\\Alura.ByteBank.Dados.csproj": {
-              "projectPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Dados\\Alura.ByteBank.Dados.csproj"
+            "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Dados\\Alura.ByteBank.Dados.csproj": {
+              "projectPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Dados\\Alura.ByteBank.Dados.csproj"
             },
-            "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj": {
-              "projectPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET integrando a aplicação com um banco de dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj"
+            "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj": {
+              "projectPath": "C:\\Users\\igort\\Documents\\Cursos\\Alura\\Testes em .NET_dados\\Tests.NET_IntegratingDatabase\\Alura.ByteBank.Domain\\Alura.ByteBank.Dominio.csproj"
             }
           }
         }
