@@ -43,7 +43,7 @@ namespace Alura.ByteBank.Infraestrutura.Testes
         }
 
         [Fact]
-        public void TestaInsereUmaNovaContaCorrenteNoBancoDeDados()
+        public void TestaInserirUmaNovaContaCorrenteNoBancoDeDados()
         {
             // Arragen
             var conta = new ContaCorrente()

@@ -18,8 +18,14 @@ namespace Alura.ByteBank.Infraestrutura.Testes
     {
 
         private readonly IAgenciaRepositorio? _repositorio;
-        public AgenciaRepositorioTestes()
+        public ITestOutputHelper SaidaConsoleTeste { get; set; }
+
+        public AgenciaRepositorioTestes(ITestOutputHelper _saidaConsoleTeste)
         {
+            SaidaConsoleTeste = _saidaConsoleTeste;
+            SaidaConsoleTeste.WriteLine("Construtor invocado.");
+
+            // Injecting dependency in the constructor
             var servico = new ServiceCollection();
             servico.AddTransient<IAgenciaRepositorio, AgenciaRepositorio>();
             var provedor = servico.BuildServiceProvider();
@@ -84,6 +90,11 @@ namespace Alura.ByteBank.Infraestrutura.Testes
 
             // Assert
             bytebankRepositorioMock.Verify(b => b.BuscarAgencias());
+        }
+
+        public void Dispose()
+        {
+            SaidaConsoleTeste.WriteLine("Destrutor invocado.");
         }
 
     }
