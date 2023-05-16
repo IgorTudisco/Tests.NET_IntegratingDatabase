@@ -26,14 +26,15 @@ namespace Alura.ByteBank.Dados.Repositorio
 
                 return true;
             }
-            catch{
+            catch
+            {
                 return false;
             }
         }
 
         public bool Atualizar(int id, Agencia agencia)
         {
-            
+
             try
             {
                 if (id != agencia.Id)
@@ -44,7 +45,8 @@ namespace Alura.ByteBank.Dados.Repositorio
                 _contexto.SaveChanges();
                 return true;
             }
-            catch{
+            catch
+            {
                 return false;
             }
         }
@@ -63,7 +65,8 @@ namespace Alura.ByteBank.Dados.Repositorio
                 _contexto.SaveChanges();
                 return true;
             }
-            catch{
+            catch
+            {
                 return false;
             }
         }
@@ -73,15 +76,15 @@ namespace Alura.ByteBank.Dados.Repositorio
             try
             {
                 var agencia = _contexto.Agencias.FirstOrDefault(p => p.Id == id);
-                if(agencia == null)
+                if (agencia == null)
                 {
                     throw new Exception($"Erro ao obter agência com Id = {id}.");
                 }
                 return agencia;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
-               throw new Exception( ex.Message) ;
+                throw new Exception(ex.Message);
             }
         }
 
