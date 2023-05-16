@@ -119,3 +119,4 @@ C:\Users\igort\Documents\Cursos\Alura\Testes em .NET_dados\Tests.NET_Integrating
 C:\Users\igort\Documents\Cursos\Alura\Testes em .NET_dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Infraestrutura.Testes\obj\Debug\net7.0\Alura.ByteBank.Infraestrutura.Testes.pdb
 C:\Users\igort\Documents\Cursos\Alura\Testes em .NET_dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Infraestrutura.Testes\obj\Debug\net7.0\Alura.ByteBank.Infraestrutura.Testes.genruntimeconfig.cache
 C:\Users\igort\Documents\Cursos\Alura\Testes em .NET_dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Infraestrutura.Testes\obj\Debug\net7.0\ref\Alura.ByteBank.Infraestrutura.Testes.dll
+C:\Users\igort\Documents\Cursos\Alura\Testes em .NET_dados\Tests.NET_IntegratingDatabase\Alura.ByteBank.Infraestrutura.Testes\bin\Debug\net7.0\Moq.dll
